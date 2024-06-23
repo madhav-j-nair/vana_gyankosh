@@ -5,7 +5,7 @@ from flask_cors import CORS
 
 
 # (Set your Google API key securely, not shown here)
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAV3RqcXc1Jwq4uLfTDJj7FYqxKLEib9MM"  # Replace with your secure key storage method
+os.environ["GOOGLE_API_KEY"] = "enter your API key"  # Replace with your secure key storage method
 
 
 # Import the ChatGoogleGenerativeAI class (replace with your actual implementation)
